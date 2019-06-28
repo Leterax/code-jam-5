@@ -46,3 +46,4 @@ We've written a couple of documents that may help you get started with the codej
     - You only have 9 days to work on your project, don't pick something that you won't be able to complete in time.
     - Please pick something that it will be feasible for us to demonstrate live on the judging stream.
 
+This is a pretty cool first commit!
